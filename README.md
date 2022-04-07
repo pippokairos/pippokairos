@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at: [BuyBay](https://www.buybay.com/en/)
+- 📫 How to reach me: use the form on [my website](https://www.filipporagazzo.it/)
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pippokairos&show_icons=true&theme=gruvbox&bg_color=000000&title_color=ffa500&text_color=39ff14)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pippokairos/pippokairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
