@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at: [BuyBay](https://www.buybay.com/en/)
-- 📫 How to reach me: use the form on [my website](https://www.filipporagazzo.it/)
+- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/filipporagazzo/)
 
 ---
 
